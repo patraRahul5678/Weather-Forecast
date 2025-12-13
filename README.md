@@ -2,7 +2,7 @@
 
 A simple and elegant **Weather Forecast App** built using **HTML, CSS, and JavaScript**, integrated with the **OpenWeather API** to provide real-time weather updates for any city in the world.
 
-**DEPLOY LINK-->**
+**DEPLOY LINK-->*https://patrarahul5678.github.io/Weather-Forecast/*
 ## 🚀 Features
 
 - 🌍 Search weather by city name  
@@ -37,7 +37,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/patraRahul5678/weather--forecast.git
+   git clone https://github.com/patraRahul5678/Weather-forecast.git
 
 2. **Navigate to the project folder**
   ```
